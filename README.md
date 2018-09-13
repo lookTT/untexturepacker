@@ -6,4 +6,4 @@
 pip install -r requirements.txt
 
 用法：
-python unpack_plist.py abc.plist
+python untexturepacker.py abc.plist
